@@ -2811,7 +2811,7 @@ body.youtube-video-ready .youtube-video {
 }
 
 .modern-nav a.logo img {
-    max-width: 100px;
+    /* max-width: 100px; */
     max-height: 50px;
 }
 
