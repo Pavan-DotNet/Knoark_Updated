@@ -9327,6 +9327,7 @@ body.youtube-video-ready .youtube-video {
 
 .width-percent-90 {
     width: 100% !important;
+    border-radius: 50px !important;
 }
 
 .width-percent-95 {
@@ -13461,6 +13462,7 @@ body.youtube-video-ready .youtube-video {
 
     .width-percent-90-sm {
         width: 90% !important;
+        border-radius: 50px !important;
     }
 
     .width-percent-95-sm {
