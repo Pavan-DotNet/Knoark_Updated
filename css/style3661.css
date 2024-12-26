@@ -166,9 +166,9 @@ button:focus {
 }
 
 :root {
-    --colored: #1881d7;
-    --colored1: #1881d7;
-    --colored2: #1881d7;
+    --colored: #03d5ff;
+    --colored1: #03d5ff;
+    --colored2: #03d5ff;
     --bg-gray: #fcfcfc;
     --bg-gray1: #f8f8f8;
     --bg-gray2: #f2f2f2;
@@ -8716,7 +8716,7 @@ body.youtube-video-ready .youtube-video {
 }
 
 .lh-xs {
-    line-height: 90% !important;
+    line-height: 100% !important;
 }
 
 .lh-sm {
@@ -16348,5 +16348,5 @@ body.youtube-video-ready .youtube-video {
 }
 
 .blue {
-    color: #2edcff;
+    color: #03d5ff;
 }
